@@ -1,0 +1,68 @@
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Tatuuu's Store.exe
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Tatuuu's Store.deps.json
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Tatuuu's Store.runtimeconfig.json
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Tatuuu's Store.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Tatuuu's Store.pdb
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.csproj.GenerateResource.cache
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.AssemblyInfoInputs.cache
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.AssemblyInfo.cs
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.csproj.CoreCompileInputs.cache
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.dll
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\refint\Tatuuu's Store.dll
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.pdb
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.genruntimeconfig.cache
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\ref\Tatuuu's Store.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Azure.Core.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Azure.Identity.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Guna.UI2.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\System.ClientModel.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\System.Management.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\System.Memory.Data.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's Store.csproj.AssemblyReference.cache
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.Login.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.Properties.Resources.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu's.A3CE4CA2.Up2Date
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.Registeration.resources
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\BLL.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\DAL.dll
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\BLL.pdb
+E:\ITI\ADvC#\Tatuuu's Store\bin\Debug\net9.0-windows\DAL.pdb
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.DashBoard.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.AdminUser.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.AdminCategories.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.AdminProduct.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.HomeUser.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.UserProduct.resources
+E:\ITI\ADvC#\Tatuuu's Store\obj\Debug\net9.0-windows\Tatuuu_s_Store.FavProducts.resources
