@@ -1,0 +1,15 @@
+E:\ITI\ADvC#\BLL\bin\Debug\net9.0\BLL.deps.json
+E:\ITI\ADvC#\BLL\bin\Debug\net9.0\BLL.dll
+E:\ITI\ADvC#\BLL\bin\Debug\net9.0\BLL.pdb
+E:\ITI\ADvC#\BLL\bin\Debug\net9.0\DAL.dll
+E:\ITI\ADvC#\BLL\bin\Debug\net9.0\DAL.pdb
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.dll
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\refint\BLL.dll
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\BLL.pdb
+E:\ITI\ADvC#\BLL\obj\Debug\net9.0\ref\BLL.dll
